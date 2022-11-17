@@ -1,0 +1,20 @@
+{
+  "name": "part-6-expressjs",
+  "version": "1.0.0",
+  "description": "An Express JS Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "Joel Brigida",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}

@@ -8,7 +8,7 @@
     "dev": "nodemon server"
   },
   "author": "Joel Brigida",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "date-fns": "^2.29.3",
     "uuid": "^9.0.0"
