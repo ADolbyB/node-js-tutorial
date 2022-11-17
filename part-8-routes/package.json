@@ -1,7 +1,7 @@
 {
-  "name": "part-7-middleware",
+  "name": "part-8-routes",
   "version": "1.0.0",
-  "description": "An Express JS Middleware Tutorial",
+  "description": "An Express JS Routing Tutorial",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server",
@@ -9,13 +9,13 @@
   },
   "author": "Joel Brigida",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  },
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^2.29.3",
     "express": "^4.18.2",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }

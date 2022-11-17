@@ -1,0 +1,4 @@
+20221117	01:07:01	b2acd90e-6c26-42d2-90d1-06d626f2f94c	Error: Not Allowed By CORS
+20221117	11:26:32	aa24bd86-0dee-45f2-b271-ffb0c65d3dda	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
+20221117	11:27:10	b4e6bd93-75b8-48a7-aae7-a5b5d631a217	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
+20221117	11:27:49	29f3801e-f738-4ef7-b9ae-ba8a62529f7a	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
