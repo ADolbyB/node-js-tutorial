@@ -1,0 +1,15 @@
+20221117	01:07:01	b2acd90e-6c26-42d2-90d1-06d626f2f94c	Error: Not Allowed By CORS
+20221117	11:26:32	aa24bd86-0dee-45f2-b271-ffb0c65d3dda	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
+20221117	11:27:10	b4e6bd93-75b8-48a7-aae7-a5b5d631a217	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
+20221117	11:27:49	29f3801e-f738-4ef7-b9ae-ba8a62529f7a	Error: ENOENT: no such file or directory, stat '/home/jmb/code/repos/node-js-tutorial/part-8-routes/routes/views/new-page.html'
+20221117	13:47:17	f9ba6bb0-1836-4cdb-a5f7-9b912dd8a13c	ReferenceError: parsrInt is not defined
+20221118	00:39:32	2c13132a-d2c1-42c9-83b4-8eb585f8dd1a	ReferenceError: whitelist is not defined
+20221118	00:39:33	f8622936-8e55-433e-853e-120d78ea73bb	ReferenceError: whitelist is not defined
+20221118	00:39:34	5a331b9c-ef74-42c4-a182-73b3e9ed31f5	ReferenceError: whitelist is not defined
+20221118	00:39:34	c48abe96-5fe8-4cb1-aa3e-c9c6810d6d2c	ReferenceError: whitelist is not defined
+20221118	00:39:34	c84823d4-4d08-42f9-946a-6abe583fb28e	ReferenceError: whitelist is not defined
+20221118	00:39:34	961b8031-8f7b-4c50-9a01-3887b87d5319	ReferenceError: whitelist is not defined
+20221118	00:40:19	bc7e870c-b39f-4114-9213-ba040c605858	ReferenceError: whitelist is not defined
+20221118	00:40:39	05584737-26af-442e-ac33-6537dac21216	ReferenceError: whitelist is not defined
+20221118	00:40:40	bd97de3d-d363-49d7-9532-848b713c3a08	ReferenceError: whitelist is not defined
+20221118	13:36:46	1ecbf9f6-8dce-41b6-8c31-89d36aeedb41	SyntaxError: Unexpected end of JSON input
