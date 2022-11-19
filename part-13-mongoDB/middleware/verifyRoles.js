@@ -3,7 +3,6 @@ const verifyRoles = (...allowedRoles) => { // We need to return a middleware fun
     return (req, res, next) => {
         if(!req?.roles) { 
             return res.sendStatus(401);
-
         }
         const rolesArray = [...allowedRoles];
         console.log(rolesArray); // Display output all role array indicies

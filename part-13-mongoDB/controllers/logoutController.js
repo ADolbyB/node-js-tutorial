@@ -5,7 +5,6 @@ const usersDB = {
 
 const fsPromises = require("fs").promises; // Only need this because we arent using a real DB
 const path = require("path");
-const { cursorTo } = require("readline");
 
 const handleLogout = async (req, res) => {
     // NOTE: On client, make sure to delete the accessToken!!

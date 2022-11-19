@@ -9,8 +9,8 @@ const errorHandler = require("./middleware/errorHandler");
 const verifyJWT = require("./middleware/verifyJWT");
 const cookieParser = require("cookie-parser");
 const credentials = require("./middleware/credentials");
-const mongoose = require("mongoose");
-const connectDB = require("./config/dbConn");
+const mongoose = require("mongoose"); // Connects to MongoDB
+const connectDB = require("./config/dbConn"); // MongoDB Connection Configuration
 
 const PORT = process.env.PORT || 3500;
 
