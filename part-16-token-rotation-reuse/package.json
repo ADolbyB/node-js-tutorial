@@ -1,7 +1,7 @@
 {
-  "name": "part-15-mongodb-async-crud",
+  "name": "part-16-token-rotation-reuse",
   "version": "1.0.0",
-  "description": "A Continuation of a MongoDB and Authentication Tutorial",
+  "description": "A tutorial on Refresh Token Rotation and Reuse Detection for increased security",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server",
